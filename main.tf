@@ -18,7 +18,7 @@ resource "aws_instance" "ubuntu" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "Trraform_yunpro"
+    Name = "Trraform_yunpro_github"
   }
 }
 
